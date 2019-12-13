@@ -1,0 +1,11 @@
+Fes un programa que rebi 2 paràmetres el primer paràmetre es el fitxer a modificar (una ruta), el segón paràmetre es el caràcter que volem eliminar del fitxer. 
+
+Per exemple: 
+
+Si yo vull eliminar tots els espais del fitxer proba.txt la execució del programa seria: java Program path/to/file/proba.txt " " 
+
+El resultat seria que al fitxer proba.txt s'han eliminat els espais.
+
+
+
+NOTA: Especifica on s'ha de deixar el fitxer perque funcioni el programa.
